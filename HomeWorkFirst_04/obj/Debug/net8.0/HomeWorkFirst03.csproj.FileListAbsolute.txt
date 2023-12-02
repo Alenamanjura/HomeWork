@@ -1,0 +1,15 @@
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.AssemblyInfoInputs.cache
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.AssemblyInfo.cs
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.csproj.CoreCompileInputs.cache
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.sourcelink.json
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\bin\Debug\net8.0\HomeWorkFirst03.exe
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\bin\Debug\net8.0\HomeWorkFirst03.deps.json
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\bin\Debug\net8.0\HomeWorkFirst03.runtimeconfig.json
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\bin\Debug\net8.0\HomeWorkFirst03.dll
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\bin\Debug\net8.0\HomeWorkFirst03.pdb
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.dll
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\refint\HomeWorkFirst03.dll
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.pdb
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\HomeWorkFirst03.genruntimeconfig.cache
+C:\Users\996\Desktop\HomeWork\HomeWorkFirst03\obj\Debug\net8.0\ref\HomeWorkFirst03.dll
