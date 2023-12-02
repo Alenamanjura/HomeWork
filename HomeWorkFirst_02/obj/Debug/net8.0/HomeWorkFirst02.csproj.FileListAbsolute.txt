@@ -1,0 +1,15 @@
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.AssemblyInfoInputs.cache
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.AssemblyInfo.cs
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.csproj.CoreCompileInputs.cache
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.sourcelink.json
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\bin\Debug\net8.0\HomeWorkFirst02.exe
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\bin\Debug\net8.0\HomeWorkFirst02.deps.json
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\bin\Debug\net8.0\HomeWorkFirst02.runtimeconfig.json
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\bin\Debug\net8.0\HomeWorkFirst02.dll
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\bin\Debug\net8.0\HomeWorkFirst02.pdb
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.dll
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\refint\HomeWorkFirst02.dll
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.pdb
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\HomeWorkFirst02.genruntimeconfig.cache
+C:\Users\996\Desktop\HomeWork\.gitignor\HomeWorkFirst02\obj\Debug\net8.0\ref\HomeWorkFirst02.dll
